@@ -1,5 +1,5 @@
 # Aura Gui
-Aura gui is a dark gui texture pack inspired by the [Aura Theme Color Palette](https://github.com/daltonmenezes/aura-theme/tree/main/packages/color-palettes) <br>
+Aura Gui is a dark texture pack inspired by the [Aura Theme Color Palette](https://github.com/daltonmenezes/aura-theme/tree/main/packages/color-palettes) <br>
 based around simple and transparent inventories. <br> (transparency may require optifine or [Transparent](https://www.curseforge.com/minecraft/mc-mods/transparent) (Fabric), and background blur thanks to [Blur](https://www.curseforge.com/minecraft/mc-mods/blur-fabric))
 
 ## Config
