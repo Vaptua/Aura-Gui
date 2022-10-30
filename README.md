@@ -1,6 +1,6 @@
 # Aura Gui
 Aura Gui is a dark texture pack inspired by the [Aura Theme Color Palette](https://github.com/daltonmenezes/aura-theme/tree/main/packages/color-palettes) <br>
-based around simple and transparent inventories. <br> (transparency may require optifine or [Transparent](https://www.curseforge.com/minecraft/mc-mods/transparent) (Fabric), and background blur thanks to [Blur](https://www.curseforge.com/minecraft/mc-mods/blur-fabric))
+based around simple and transparent inventories. <br> (transparency may require optifine or [Transparent](https://www.curseforge.com/minecraft/mc-mods/transparent) (Fabric), background blur in screenshots thanks to [Blur](https://www.curseforge.com/minecraft/mc-mods/blur-fabric))
 
 ## Config
 The config with some nice initial setting including theming, mod popup removal, and camera settings to reduce motion <br> sickness are in the config directory which can be pasted into the `.minecraft` folder to take effect.
