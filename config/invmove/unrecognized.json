@@ -1,0 +1,10 @@
+{
+  "allowMovement": {
+    "net.minecraft.class_434": true,
+    "net.minecraft.class_433": true,
+    "net.minecraft.class_4895": true
+  },
+  "hideBackground": {
+    "net.minecraft.class_4895": true
+  }
+}

@@ -1,0 +1,21 @@
+{
+    "colors": {
+        "AlternateBase": "#15141b",
+        "Base": "#15141b",
+        "BrightText": "#edecee",
+        "Button": "#29263c",
+        "ButtonText": "#edecee",
+        "Highlight": "#a277ff",
+        "HighlightedText": "#edecee",
+        "Link": "#61ffca",
+        "Text": "#edecee",
+        "ToolTipBase": "#29263c",
+        "ToolTipText": "#edecee",
+        "Window": "#15141b",
+        "WindowText": "#edecee",
+        "fadeAmount": 0.5,
+        "fadeColor": "#29263c"
+    },
+    "name": "Aura",
+    "widgets": "Fusion"
+}
